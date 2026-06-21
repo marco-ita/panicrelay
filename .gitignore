@@ -1,0 +1,16 @@
+# Gradle / build
+.gradle/
+build/
+app/build/
+*/build/
+
+# Local config (never commit)
+local.properties
+
+# Android Studio / IDE
+.idea/
+*.iml
+.DS_Store
+
+# Logs
+*.log
